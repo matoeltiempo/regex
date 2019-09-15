@@ -1,1 +1,1 @@
-const delevoper;
+const delevop;
