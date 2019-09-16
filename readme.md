@@ -1,3 +1,4 @@
 #  Учебная работа "Регулярные выражения"
 *версия проекта 0.0.0.2
-https://matoeltiempo.github.io/regex/
+
+[Обычная ссылка в строке](https://matoeltiempo.github.io/regex/)
